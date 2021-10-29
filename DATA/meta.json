@@ -1,0 +1,20 @@
+{
+    "classes": [
+        {
+            "id": 2719717,
+            "title": "chordophone",
+            "shape": "polygon",
+            "hotkey": "C",
+            "color": "#68C1EE"
+        },
+        {
+            "id": 2958416,
+            "title": "Blalba",
+            "shape": "polygon",
+            "hotkey": "",
+            "color": "#50B2B4"
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2500,
+        "width": 1642
+    },
+    "objects": [
+        {
+            "id": 570574975,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-04T19:12:13.246Z",
+            "updatedAt": "2020-12-04T19:12:28.014Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        889,
+                        526
+                    ],
+                    [
+                        972,
+                        507
+                    ],
+                    [
+                        972,
+                        450
+                    ],
+                    [
+                        889,
+                        428
+                    ],
+                    [
+                        876,
+                        189
+                    ],
+                    [
+                        749,
+                        176
+                    ],
+                    [
+                        733,
+                        297
+                    ],
+                    [
+                        736,
+                        424
+                    ],
+                    [
+                        682,
+                        437
+                    ],
+                    [
+                        733,
+                        520
+                    ],
+                    [
+                        733,
+                        1150
+                    ],
+                    [
+                        749,
+                        2350
+                    ],
+                    [
+                        883,
+                        2363
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

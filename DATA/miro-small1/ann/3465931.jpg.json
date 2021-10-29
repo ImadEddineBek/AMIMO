@@ -1,0 +1,138 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 531
+    },
+    "objects": [
+        {
+            "id": 569516369,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-03T21:30:59.919Z",
+            "updatedAt": "2020-12-03T21:31:16.062Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        380,
+                        63
+                    ],
+                    [
+                        360,
+                        67
+                    ],
+                    [
+                        311,
+                        283
+                    ],
+                    [
+                        277,
+                        427
+                    ],
+                    [
+                        266,
+                        472
+                    ],
+                    [
+                        230,
+                        615
+                    ],
+                    [
+                        220,
+                        675
+                    ],
+                    [
+                        234,
+                        676
+                    ],
+                    [
+                        312,
+                        397
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 569516371,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-03T21:31:15.584Z",
+            "updatedAt": "2020-12-03T21:31:32.384Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        142
+                    ],
+                    [
+                        240,
+                        144
+                    ],
+                    [
+                        226,
+                        158
+                    ],
+                    [
+                        241,
+                        177
+                    ],
+                    [
+                        237,
+                        240
+                    ],
+                    [
+                        236,
+                        305
+                    ],
+                    [
+                        242,
+                        329
+                    ],
+                    [
+                        250,
+                        630
+                    ],
+                    [
+                        228,
+                        687
+                    ],
+                    [
+                        236,
+                        714
+                    ],
+                    [
+                        244,
+                        728
+                    ],
+                    [
+                        266,
+                        729
+                    ],
+                    [
+                        294,
+                        696
+                    ],
+                    [
+                        282,
+                        642
+                    ],
+                    [
+                        269,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

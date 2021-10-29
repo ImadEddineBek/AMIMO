@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 531
+    },
+    "objects": [
+        {
+            "id": 575766974,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-08T02:00:14.330Z",
+            "updatedAt": "2020-12-08T02:00:41.555Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        253,
+                        590
+                    ],
+                    [
+                        265,
+                        598
+                    ],
+                    [
+                        263,
+                        635
+                    ],
+                    [
+                        254,
+                        655
+                    ],
+                    [
+                        234,
+                        663
+                    ],
+                    [
+                        212,
+                        655
+                    ],
+                    [
+                        208,
+                        621
+                    ],
+                    [
+                        217,
+                        594
+                    ],
+                    [
+                        233,
+                        586
+                    ],
+                    [
+                        257,
+                        243
+                    ],
+                    [
+                        269,
+                        165
+                    ],
+                    [
+                        282,
+                        165
+                    ],
+                    [
+                        279,
+                        202
+                    ],
+                    [
+                        286,
+                        219
+                    ],
+                    [
+                        277,
+                        238
+                    ],
+                    [
+                        270,
+                        260
+                    ],
+                    [
+                        279,
+                        270
+                    ],
+                    [
+                        269,
+                        300
+                    ],
+                    [
+                        244,
+                        585
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 575766983,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-08T02:00:41.408Z",
+            "updatedAt": "2020-12-08T02:00:53.135Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        452,
+                        238
+                    ],
+                    [
+                        441,
+                        279
+                    ],
+                    [
+                        149,
+                        606
+                    ],
+                    [
+                        116,
+                        643
+                    ],
+                    [
+                        92,
+                        647
+                    ],
+                    [
+                        73,
+                        692
+                    ],
+                    [
+                        59,
+                        684
+                    ],
+                    [
+                        88,
+                        637
+                    ],
+                    [
+                        437,
+                        248
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

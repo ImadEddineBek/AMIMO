@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 533
+    },
+    "objects": [
+        {
+            "id": 567601695,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-02T21:19:14.853Z",
+            "updatedAt": "2020-12-02T21:19:18.344Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        688
+                    ],
+                    [
+                        480,
+                        710
+                    ],
+                    [
+                        36,
+                        670
+                    ],
+                    [
+                        38,
+                        649
+                    ],
+                    [
+                        274,
+                        667
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 567601697,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-02T21:19:20.952Z",
+            "updatedAt": "2020-12-02T21:19:43.362Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        327,
+                        653
+                    ],
+                    [
+                        284,
+                        657
+                    ],
+                    [
+                        246,
+                        646
+                    ],
+                    [
+                        213,
+                        629
+                    ],
+                    [
+                        189,
+                        580
+                    ],
+                    [
+                        184,
+                        528
+                    ],
+                    [
+                        199,
+                        503
+                    ],
+                    [
+                        222,
+                        479
+                    ],
+                    [
+                        22,
+                        462
+                    ],
+                    [
+                        26,
+                        433
+                    ],
+                    [
+                        223,
+                        456
+                    ],
+                    [
+                        251,
+                        268
+                    ],
+                    [
+                        251,
+                        138
+                    ],
+                    [
+                        239,
+                        51
+                    ],
+                    [
+                        268,
+                        42
+                    ],
+                    [
+                        317,
+                        466
+                    ],
+                    [
+                        340,
+                        468
+                    ],
+                    [
+                        364,
+                        476
+                    ],
+                    [
+                        388,
+                        496
+                    ],
+                    [
+                        405,
+                        519
+                    ],
+                    [
+                        406,
+                        547
+                    ],
+                    [
+                        409,
+                        585
+                    ],
+                    [
+                        384,
+                        621
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 461,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 577470909,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-08T18:09:24.428Z",
+            "updatedAt": "2020-12-08T18:09:37.685Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        787,
+                        316
+                    ],
+                    [
+                        746,
+                        411
+                    ],
+                    [
+                        733,
+                        443
+                    ],
+                    [
+                        721,
+                        443
+                    ],
+                    [
+                        52,
+                        106
+                    ],
+                    [
+                        42,
+                        76
+                    ],
+                    [
+                        47,
+                        69
+                    ],
+                    [
+                        31,
+                        56
+                    ],
+                    [
+                        42,
+                        43
+                    ],
+                    [
+                        64,
+                        53
+                    ],
+                    [
+                        93,
+                        26
+                    ],
+                    [
+                        103,
+                        36
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

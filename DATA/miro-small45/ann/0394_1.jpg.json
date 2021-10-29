@@ -1,0 +1,86 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 192
+    },
+    "objects": [
+        {
+            "id": 563552246,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-11-23T22:17:19.238Z",
+            "updatedAt": "2020-11-23T22:17:35.515Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        111,
+                        35
+                    ],
+                    [
+                        96,
+                        45
+                    ],
+                    [
+                        71,
+                        112
+                    ],
+                    [
+                        55,
+                        126
+                    ],
+                    [
+                        65,
+                        440
+                    ],
+                    [
+                        68,
+                        473
+                    ],
+                    [
+                        111,
+                        475
+                    ],
+                    [
+                        139,
+                        470
+                    ],
+                    [
+                        154,
+                        404
+                    ],
+                    [
+                        144,
+                        348
+                    ],
+                    [
+                        133,
+                        312
+                    ],
+                    [
+                        108,
+                        282
+                    ],
+                    [
+                        84,
+                        256
+                    ],
+                    [
+                        76,
+                        133
+                    ],
+                    [
+                        106,
+                        67
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

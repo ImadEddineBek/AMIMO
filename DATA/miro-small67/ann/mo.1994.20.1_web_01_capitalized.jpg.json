@@ -1,0 +1,78 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 584
+    },
+    "objects": [
+        {
+            "id": 575771767,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-08T04:00:13.695Z",
+            "updatedAt": "2020-12-08T04:00:51.073Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        361,
+                        68
+                    ],
+                    [
+                        287,
+                        492
+                    ],
+                    [
+                        104,
+                        723
+                    ],
+                    [
+                        89,
+                        723
+                    ],
+                    [
+                        93,
+                        741
+                    ],
+                    [
+                        228,
+                        715
+                    ],
+                    [
+                        309,
+                        629
+                    ],
+                    [
+                        381,
+                        489
+                    ],
+                    [
+                        441,
+                        329
+                    ],
+                    [
+                        450,
+                        246
+                    ],
+                    [
+                        427,
+                        154
+                    ],
+                    [
+                        403,
+                        111
+                    ],
+                    [
+                        373,
+                        68
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 571944705,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-07T12:59:48.948Z",
+            "updatedAt": "2020-12-07T13:00:04.477Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        783,
+                        406
+                    ],
+                    [
+                        759,
+                        421
+                    ],
+                    [
+                        730,
+                        404
+                    ],
+                    [
+                        37,
+                        372
+                    ],
+                    [
+                        30,
+                        347
+                    ],
+                    [
+                        49,
+                        319
+                    ],
+                    [
+                        731,
+                        328
+                    ],
+                    [
+                        783,
+                        340
+                    ],
+                    [
+                        788,
+                        362
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 571944715,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bekkouche.seif.islam@gmail.com",
+            "createdAt": "2020-12-07T13:00:04.322Z",
+            "updatedAt": "2020-12-07T13:00:26.933Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        520,
+                        488
+                    ],
+                    [
+                        326,
+                        479
+                    ],
+                    [
+                        327,
+                        456
+                    ],
+                    [
+                        480,
+                        464
+                    ],
+                    [
+                        485,
+                        423
+                    ],
+                    [
+                        364,
+                        418
+                    ],
+                    [
+                        361,
+                        408
+                    ],
+                    [
+                        331,
+                        406
+                    ],
+                    [
+                        332,
+                        388
+                    ],
+                    [
+                        124,
+                        384
+                    ],
+                    [
+                        121,
+                        404
+                    ],
+                    [
+                        159,
+                        407
+                    ],
+                    [
+                        153,
+                        423
+                    ],
+                    [
+                        324,
+                        424
+                    ],
+                    [
+                        314,
+                        452
+                    ],
+                    [
+                        95,
+                        439
+                    ],
+                    [
+                        91,
+                        463
+                    ],
+                    [
+                        315,
+                        482
+                    ],
+                    [
+                        324,
+                        493
+                    ],
+                    [
+                        519,
+                        505
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

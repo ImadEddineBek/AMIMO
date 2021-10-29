@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 199
+    },
+    "objects": [
+        {
+            "id": 563550634,
+            "classId": 2719717,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "deguerrydeb",
+            "createdAt": "2020-10-26T16:03:50.248Z",
+            "updatedAt": "2020-10-26T16:04:12.507Z",
+            "tags": [],
+            "classTitle": "chordophone",
+            "points": {
+                "exterior": [
+                    [
+                        135,
+                        400
+                    ],
+                    [
+                        100,
+                        75
+                    ],
+                    [
+                        95,
+                        50
+                    ],
+                    [
+                        70,
+                        390
+                    ],
+                    [
+                        70,
+                        405
+                    ],
+                    [
+                        75,
+                        425
+                    ],
+                    [
+                        90,
+                        440
+                    ],
+                    [
+                        120,
+                        455
+                    ],
+                    [
+                        135,
+                        435
+                    ],
+                    [
+                        135,
+                        400
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
